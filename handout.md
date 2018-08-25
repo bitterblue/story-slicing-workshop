@@ -30,7 +30,7 @@ VAT is applied to the discounted price and differs from country to country.
 |----------------|------|----------|
 | Luxembourg     | LU   | 17%      |
 | Germany        | DE   | 19%      |
-| United Kingdom | GB   | 20%      |
+| France         | FR   | 20%      |
 | Poland         | PL   | 23%      |
 | Hungary        | HU   | 27%      |
 
